@@ -1,0 +1,1 @@
+web: cd glassstorefront && npm start
